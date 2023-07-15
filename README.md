@@ -1,2 +1,2 @@
 # test-repo
-This is stage 0
+This is stage 1
